@@ -597,6 +597,9 @@ address i {
 .footer-sidebar .widget .wp-block-group .wp-block-quote cite a {
 	color: #ff5d20;
 }
+.footer-sidebar .widget dl a {
+	color: #ff5d20;
+}
 
 
 /*--------------------------------------------------
