@@ -4,7 +4,7 @@ Theme URI: https://themearile.com/consultstreet-theme/
 Author: ThemeArile
 Author URI: https://themearile.com
 Description: ConsultStreet is a multipurpose WordPress theme that you can use to create any website you wish to create. The theme comes with a very flexible design, and it is fully customizable as per your requirement. ConsultStreet is a perfect theme for the consulting and finance business website. Not only that, but this is also a very lightweight theme that is load with a single click in no time. The theme is completely responsive and mobile-friendly and that your users can access your site from any device. As well as sophisticated plus it has some exotic features like customization and clean code, advanced typography, sticky menu, logo upload, header image, Bootstrap 4 framework, built with SEO in mind, and translation ready (WPML, Polylang). This theme supports the best Elementor page builder to create, edit, and updates page designs as per the requirement. ConsultStreet also supports popular free and premium WordPress plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, Google Analytics, and much more. Check the demo of ConsultStreet Pro https://themearile.com/consultstreet-pro-theme/.
-Version: 2.7.8
+Version: 2.7.9
 Tested up to: 6.6
 Requires PHP: 5.6
 License: GPLv2 or later
@@ -2923,6 +2923,9 @@ embed, iframe, object {
 .footer-sidebar .widget .wp-block-group pre.wp-block-preformatted {
 	background: rgba(26, 26, 26, 0.8);
 	color: #ddd;
+}
+.footer-sidebar .widget .wp-block-social-links li.wp-social-link {
+	padding-bottom: 0;
 }
 
 /*--------------------------------------------------
