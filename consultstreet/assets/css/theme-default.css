@@ -545,6 +545,9 @@ address i {
 .theme-blog .post .entry-content ul.wp-block-page-list li.wp-block-navigation-item a:hover {
 	color: #ff5d20;
 }
+.sidebar .widget .wp-block-file .wp-block-file__button {
+	background: #ff5d20;
+}
 
 
 /*------------------------------------------------------------

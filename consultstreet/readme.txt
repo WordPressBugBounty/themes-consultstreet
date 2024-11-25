@@ -4,7 +4,7 @@ Author: ThemeArile
 Requires at least: 4.7
 Tested up to: 6.7
 Requires PHP: 5.6
-Version: 2.8.1
+Version: 2.8.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
@@ -53,6 +53,9 @@ License: CC0 Public Domain
 License: CC0 Public Domain
 
 == Changelog ==
+
+@Version 2.8.2
+* We added the background color of the wp-block-file download button in the sidebar widget area.
 
 = Version 2.8.1
 * We have fixed the hover color issue of upgrade to pro button in the customizer.
