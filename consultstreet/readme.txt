@@ -4,7 +4,7 @@ Author: ThemeArile
 Requires at least: 4.7
 Tested up to: 6.7
 Requires PHP: 5.6
-Version: 2.8.3
+Version: 2.8.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
@@ -53,6 +53,9 @@ License: CC0 Public Domain
 License: CC0 Public Domain
 
 == Changelog ==
+
+= Version 2.8.4
+* Added the bottom space of the wp-block-details widget in the sidebar widget area.
 
 = Version 2.8.3
 * We removed the bottom space of the wp-block-social-links icons in the sidebar widget area.
