@@ -548,6 +548,9 @@ address i {
 .sidebar .widget .wp-block-file .wp-block-file__button {
 	background: #ff5d20;
 }
+.sidebar .widget .wp-block-embed .wp-element-caption a {
+	color: #ff5d20;
+}
 
 
 /*------------------------------------------------------------
