@@ -12,7 +12,7 @@
 $consultstreet_footer_widgets_enabled = get_theme_mod('consultstreet_footer_widgets_enabled', true);  
 $consultstreet_footer_container_size = get_theme_mod('consultstreet_footer_container_size', 'container-full');
 $consultstreet_footer_copright_enabled = get_theme_mod('consultstreet_footer_copright_enabled', true);
-$consultstreet_footer_copright_text = get_theme_mod('consultstreet_footer_copright_text', __('Copyright &copy; 2024 | Powered by <a href="//wordpress.org/">WordPress</a> <span class="sep"> | </span> ConsultStreet theme by <a target="_blank" href="//themearile.com/">ThemeArile</a>', 'consultstreet'));
+$consultstreet_footer_copright_text = get_theme_mod('consultstreet_footer_copright_text', __('Copyright &copy; 2025 | Powered by <a href="//wordpress.org/">WordPress</a> <span class="sep"> | </span> ConsultStreet theme by <a target="_blank" href="//themearile.com/">ThemeArile</a>', 'consultstreet'));
 
 ?>
 	<!--Footer-->

@@ -144,7 +144,7 @@ function consultstreet_customizer_theme_settings( $wp_customize ){
 			'consultstreet_footer_copright_text',
 			array(
 				'sanitize_callback' =>  'consultstreet_sanitize_text',
-				'default' => __('Copyright &copy; 2024 | Powered by <a href="//wordpress.org/">WordPress</a> <span class="sep"> | </span> ConsultStreet theme by <a target="_blank" href="//themearile.com/">ThemeArile</a>', 'consultstreet'),
+				'default' => __('Copyright &copy; 2025 | Powered by <a href="//wordpress.org/">WordPress</a> <span class="sep"> | </span> ConsultStreet theme by <a target="_blank" href="//themearile.com/">ThemeArile</a>', 'consultstreet'),
 				'transport'         => $selective_refresh,
 			)	
 		);
