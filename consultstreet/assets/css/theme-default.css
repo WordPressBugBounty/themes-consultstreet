@@ -392,7 +392,8 @@ select:focus,
 .widget .tagcloud a {
     background-color: #ff5d20;
 }
-.widget .widget-title:after {
+.widget .widget-title:after, 
+.widget .wp-block-heading:after {
     background: #ff5d20;
 }
 address i { 
