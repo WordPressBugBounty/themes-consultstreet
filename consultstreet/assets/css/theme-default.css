@@ -480,7 +480,6 @@ address i {
 =>> Sidebar Widget Style Css According to WordPress 5.8
 --------------------------------------------------*/
 
-.sidebar .widget .wp-block-group h2:after, 
 .sidebar .widget .wp-block-search .wp-block-search__label:after {
 	background: #ff5d20;
 }
@@ -558,9 +557,6 @@ address i {
 =>> Footer Sidebar Widget Style Css According to WordPress 5.8
 ------------------------------------------------------------*/
 
-.footer-sidebar .widget .wp-block-group h2:after {
-    background: #ff5d20;
-}
 .footer-sidebar .widget .wp-block-group .wp-block-tag-cloud a {
 	background-color: #ff5d20;
 }

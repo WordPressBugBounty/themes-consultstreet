@@ -4,7 +4,7 @@ Theme URI: https://themearile.com/consultstreet-theme/
 Author: ThemeArile
 Author URI: https://themearile.com
 Description: ConsultStreet is a multipurpose WordPress theme that you can use to create any website you wish to create. The theme comes with a very flexible design, and it is fully customizable as per your requirement. ConsultStreet is a perfect theme for the consulting and finance business website. Not only that, but this is also a very lightweight theme that is load with a single click in no time. The theme is completely responsive and mobile-friendly and that your users can access your site from any device. As well as sophisticated plus it has some exotic features like customization and clean code, advanced typography, sticky menu, logo upload, header image, Bootstrap 4 framework, built with SEO in mind, and translation ready (WPML, Polylang). This theme supports the best Elementor page builder to create, edit, and updates page designs as per the requirement. ConsultStreet also supports popular free and premium WordPress plugins such as Elementor, Yoast SEO, WooCommerce, Contact Form 7, Jetpack, Google Analytics, and much more. Check the demo of ConsultStreet Pro https://themearile.com/consultstreet-pro-theme/.
-Version: 2.9.2
+Version: 2.9.3
 Tested up to: 6.7
 Requires PHP: 5.6
 License: GPLv2 or later
@@ -1957,7 +1957,7 @@ body.custom-background .theme-services {
 .widget_rss ul li {
 	padding-top: 0.625rem;
     padding-bottom: 0.625rem;
-    border-bottom: 1px solid #f1f1f1;
+    border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
 }
 .widget_rss ul li:first-child {
     padding-top: 0;
@@ -2473,7 +2473,6 @@ embed, iframe, object {
 =>> Sidebar Widget Style Css According to WordPress 5.8
 --------------------------------------------------*/
 
-.sidebar .widget .wp-block-group h2, 
 .sidebar .widget .wp-block-search .wp-block-search__label { 
 	position: relative;
 	font-weight: 600;
@@ -2483,7 +2482,6 @@ embed, iframe, object {
     padding-bottom: 0.625rem;
     border-bottom: 1px solid #e9e9e9;
 }
-.sidebar .widget .wp-block-group h2:after, 
 .sidebar .widget .wp-block-search .wp-block-search__label:after {
 	background: #ff5d20;
     content: "";
@@ -2709,14 +2707,6 @@ embed, iframe, object {
     padding-left: 1.5rem;
 	margin-left: 1.125rem;
 }
-.sidebar .widget .wp-block-group .is-layout-flow h2 {
-	margin-bottom: 0;
-	padding-bottom: 0;
-	border-bottom: 0 none;
-}
-.sidebar .widget .wp-block-group .is-layout-flow h2:after {
-	display: none;
-}
 .theme-blog .post .entry-content ul li {
 	margin-bottom: 10px;
 }
@@ -2796,22 +2786,6 @@ embed, iframe, object {
 =>> Footer Sidebar Widget Style Css According to WordPress 5.8
 ------------------------------------------------------------*/
 
-.footer-sidebar .widget .wp-block-group h2 {
-	position: relative;
-    margin-bottom: 2.125rem;
-    padding-bottom: 0.525rem;
-    font-weight: 600;
-    font-size: 1.375rem;
-}
-.footer-sidebar .widget .wp-block-group h2:after {
-    content: "";
-    width: 50px;
-    height: 2px;
-    bottom: -1px;
-    left: 0;
-    position: absolute;
-    z-index: 1;
-}
 .footer-sidebar .widget .wp-block-group .wp-block-tag-cloud a {
     color: #fff !important;
     font-size: 0.875rem !important;
