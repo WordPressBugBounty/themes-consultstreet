@@ -99,6 +99,9 @@ if ( ! class_exists( 'ConsultStreet_Customizer' ) ) :
 			$activate_theme_data = wp_get_theme(); // getting current theme data
 			$activate_theme = $activate_theme_data->name;
 			
+			// Recommended Plugin
+			require CONSULTSTREET_PARENT_CUSTOMIZER_DIR . '/customizer-notice/consultstreet-notify-plugin.php';
+			
 			// Base class.
 			require CONSULTSTREET_PARENT_CUSTOMIZER_DIR . '/customizer-settings/consultstreet-customize-base-customizer-settings.php';
 			// Menu.
