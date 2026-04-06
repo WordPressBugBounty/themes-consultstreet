@@ -4,7 +4,7 @@ Author: ThemeArile
 Requires at least: 4.7
 Tested up to: 6.8
 Requires PHP: 5.6
-Version: 3.0.1
+Version: 3.0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
@@ -53,6 +53,24 @@ License: CC0 Public Domain
 License: CC0 Public Domain
 
 == Changelog ==
+
+= Version 3.0.7
+* We have removed the background hover color of the accordion widget in the sidebar widget area.
+
+= Version 3.0.6
+* We have removed the background hover color of the accordion widget in the footer sidebar widget area.
+
+= Version 3.0.5
+* We updated the copyright year in footer area.
+
+= Version 3.0.4
+* We added the border of wp-block-heading link in the footer widget title.
+
+= Version 3.0.3
+* Added the font-weight for the Meta Widget title in the sidebar widget.
+
+= Version 3.0.2
+* We have enhanced the font size of the wp-block-file widget in the blog post area.
 
 = Version 3.0.1
 * We have fixed the checkout button css issue in woocommerce.

@@ -561,6 +561,9 @@ address i {
 	background: #ff5d20;
 	border: solid 1px #ff5d20;
 }
+.widget .wp-block-heading a {
+    color: #ff5d20;
+}
 
 /*------------------------------------------------------------
 =>> Footer Sidebar Widget Style Css According to WordPress 5.8
