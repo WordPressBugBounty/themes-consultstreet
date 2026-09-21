@@ -4,7 +4,7 @@ Author: ThemeArile
 Requires at least: 4.7
 Tested up to: 7.0
 Requires PHP: 5.6
-Version: 3.1.1
+Version: 3.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
@@ -53,6 +53,9 @@ License: CC0 Public Domain
 License: CC0 Public Domain
 
 == Changelog ==
+
+= Version 3.1.2
+* We added the top space to the wp-block-tab-panels in the wp-block-tabs sidebar widget.
 
 = Version 3.1.1
 * We have fixed the breadcrumbs widget space in the blog post area.
